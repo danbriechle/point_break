@@ -1,9 +1,9 @@
 # Default-Ruby-Project
-##This is a default ruby project with mini-test
+## This is a default ruby project with mini-test
 I created this to save set up time when working through challenges
 this is as bare bones as it gets feel free to modify
 
-##to use this project follow these steps:
+## to use this project follow these steps:
 1. import it into a new respository via the git ui
 2. on your local machine mkdir remote-repo-name
 3. cd into that dir
